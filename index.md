@@ -9,3 +9,12 @@
 
 #### Image of octocat
 ![Image of my Octocat](https://octodex.github.com/images/yaktocat.png)
+
+
+#### Adding a code block
+``` python
+def add2Nums(a, b):
+  return a+b
+
+```
+
