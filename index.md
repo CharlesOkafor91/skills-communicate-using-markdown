@@ -18,3 +18,8 @@ def add2Nums(a, b):
 
 ```
 
+#### Adding Task List
+- [ ] Ad this task list
+- [ ] Preview the markdown
+- [ ] Commit changes
+
